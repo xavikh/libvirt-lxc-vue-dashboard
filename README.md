@@ -1,4 +1,5 @@
-# cdws_web
+# libvirt-lxc-vue-dashboard
+This project work together with https://github.com/xavikh/libvirt-lxc-nodejs-dashboard
 
 ## Project setup
 ```
